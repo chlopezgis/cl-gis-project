@@ -30,5 +30,5 @@ Si deseas colaborar o tienes sugerencias, ¡no dudes en abrir un issue o enviar 
 
 Si tienes preguntas o deseas conversar sobre proyectos geoespaciales, puedes contactarme en:
 
-Correo: chlopezgis@gmail.com
-LinkedIn: [@chlopezgis](https://www.linkedin.com/in/chlopezgis/)
+- Correo: chlopezgis@gmail.com
+- LinkedIn: [@chlopezgis](https://www.linkedin.com/in/chlopezgis/)
