@@ -6,11 +6,11 @@
 
 Este portafolio incluye:
 
-* **Análisis espacial**: Herramientas y scripts para realizar análisis de buffers, intersecciones espaciales y densidades.
-* **Procesamiento de datos raster y vectoriales**: Scripts para trabajar con imágenes satelitales, modelos digitales de elevación y operaciones vectoriales.
-* **Visualización geoespacial**: Mapas interactivos y dashboards creados con herramientas como Leaflet, Mapbox y Python.
-* **Automatización de procesos GIS**: Scripts para transformar formatos, realizar reproyecciones masivas y generar mapas temáticos automáticamente.
-* **Gestión de bases de datos geoespaciales**: Ejemplos de consultas avanzadas en PostGIS y automatización con SQL y Python.
+* **Análisis geoespacial**: Herramientas y scripts para realizar distintos tipos de análisis sobre datos geográficos.
+* **Procesamiento de datos geoespaciales**: Scripts para trabajar con diferentes tipos de datos, como imágenes y geometrías geoespaciales.
+* **Automatización de procesos GIS**: Soluciones para automatizar procesos y convertir o modificar datos geoespaciales en formatos adecuados.
+* **Gestión de bases de datos geoespaciales**: Ejemplos de consultas y manipulación de datos geoespaciales en bases de datos.
+* **Visualización de datos geoespaciales**: Técnicas para crear representaciones visuales interactivas de datos geoespaciales.
 
 ## **Licencia**
 
